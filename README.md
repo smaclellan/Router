@@ -1,2 +1,1 @@
-"# Router" 
-"# GPS" 
+A simple arduino project that takes a character in the serial monitor and converts it into a byte using the ascii table. It transmits it using a speaker the higher frequency for 1's and the lower for 0s. Then the reciever program listens and reads back in the bits and converts them back into the character.
